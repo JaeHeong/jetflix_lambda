@@ -1,2 +1,2 @@
 # jetflix_lambda
-lambda for jetflix
+AWS lambda for jetflix
